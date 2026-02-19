@@ -16,6 +16,7 @@ El sistema permite llevar un control básico sobre los estudiantes que llegan ta
 
 ## 🖥️ Tecnologías Utilizadas
 
-- 🐘 **PHP**  
+- 🐘 **PHP**
+  
 - 💾 Almacenamiento de datos en archivos `.dat` serializados  
 - 🧑‍🎨 HTML y CSS para la interfaz visual
